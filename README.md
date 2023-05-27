@@ -15,7 +15,7 @@ This is the README.md file for the Guzzi Contracting website.
 
 ## Description
 
-Guzzi Contracting is a construction company specializing in various construction services. This website serves as an online presence and showcases the company's portfolio, services, and contact information.
+Guzzi Contracting is a construction company specializing in various construction services. This website serves as an online presence and showcases the company's portfolio, services, and contact information. Looks and works great on all device sizes
 
 ## Features
 
