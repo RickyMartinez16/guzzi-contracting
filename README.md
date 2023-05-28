@@ -1,6 +1,6 @@
 # Guzzi Contracting
 
-[Website]: https://guzzicontracting.com
+https://guzzicontracting.com
 
 This is the README.md file for the Guzzi Contracting website.
 
