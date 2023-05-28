@@ -20,6 +20,7 @@ Guzzi Contracting is a construction company specializing in various construction
 ## Features
 
 - Landing page 
+![Screenshot](./build/assets/images/Screen%20Shot%202023-05-30%20at%202.01.52%20PM.png)
 - Display of company's portfolio
 - Detailed information about the services offered
 ![Screenshot](build/assets/images/Screen%20Shot%202023-05-30%20at%202.02.40%20PM.png)
